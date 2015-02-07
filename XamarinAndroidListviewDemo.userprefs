@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="XamarinAndroidListviewDemo/XamarinAndroidListviewDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.E8AZCY08A598" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAndroidListviewDemo/DemoListViewAdapter.cs">
+    <Files>
+      <File FileName="XamarinAndroidListviewDemo/DemoListViewAdapter.cs" Line="22" Column="22" />
+      <File FileName="XamarinAndroidListviewDemo/MainActivity.cs" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinAndroidListviewDemo MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
